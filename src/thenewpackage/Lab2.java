@@ -9,7 +9,7 @@ public class Lab2 {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to Grand Circus' Room Detail Generator!");
-		int myNumber = 0;
+		int myNumber = 0; //just added this to add something to commit
 		Scanner scanner = new Scanner(System.in);
 		Boolean shouldContinue = true;
 
